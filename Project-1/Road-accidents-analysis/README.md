@@ -1,3 +1,7 @@
+## Data
+The data for the project has been collected from <a href="https://data.gov.in/dataset-group-name/road-accidents"> Open Government Data Portal </a>, an authorized portal by the Government of India. 
+The data consists of multiple datasets sprawling over various paramters of judgements like type of vehicles,
+time of occurence, natural/unnatural reasons of the accident etc.
 
 ## Python Libraries Used : <a id = 'lib'></a>
 - Pandas
