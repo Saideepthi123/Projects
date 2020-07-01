@@ -13,13 +13,13 @@ Features : Sepal Length, Sepal Width, Petal Length, and Petal Width.
 Target variable: Different Species of Iris plant.
 
 One species, Iris Setosa, is "linearly separable" from the other two. This means that we can draw a line                                                                           
-(or a hyperplane in higher-dimensional spaces) between Iris Setosa samples and samples corresponding to the other two species.
-
-# Python Libraries Used :
-  > Numpy                                                                                    
-  > Pandas
-  > Seaborn
-  > Matplotlib                                                                                                                                                                     
-  
+(or a hyperplane in higher-dimensional spaces) between Iris Setosa samples and samples corresponding to the other two species                                                                                                                                                                    
 # Purpose
 The purpose of this project was to gain introductory exposure to Machine Learning Classification concepts along with data visualization.
+
+# Python Libraries Used
+ > Numpy                                                                                                                                                                           
+ > Pandas
+ > Seaborn
+ > Matplotlib
+ 
