@@ -1,5 +1,5 @@
 # Machine Learning with Iris Dataset
-![Python](https://img.shields.io/badge/python-2.x-orange.svg)
+![Python](https://img.shields.io/badge/python-3.x-orange.svg)
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg) ![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
 
@@ -17,7 +17,8 @@ One species, Iris Setosa, is "linearly separable" from the other two. This means
 
 # Python Libraries Used :
   > Numpy                                                                                    
-  > Pandas                                                                                                                                                                           > Seaborn                                                                                                                                                                         
+  > Pandas
+  > Seaborn
   > Matplotlib                                                                                                                                                                     
   
 # Purpose
