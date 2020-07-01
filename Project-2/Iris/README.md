@@ -19,7 +19,7 @@ The purpose of this project was to gain introductory exposure to Machine Learnin
 
 # Python Libraries Used
  > Numpy                                                                                                                                                                           
- > Pandas
- > Seaborn
+ > Pandas                                                                                                                                                                           
+ > Seaborn                                                                                                                                                                         
  > Matplotlib
  
