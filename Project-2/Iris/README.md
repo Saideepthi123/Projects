@@ -1,7 +1,3 @@
-# Machine Learning with Iris Dataset
-![Python](https://img.shields.io/badge/python-3.x-orange.svg)
-![Type](https://img.shields.io/badge/Machine-Learning-red.svg) ![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
-![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
 
 # Introduction
 The Iris dataset is a classic dataset for classification, machine learning, and data visualization.
