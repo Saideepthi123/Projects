@@ -8,4 +8,4 @@ The iris flowers have different species and you can distinguish them based on th
 
 # Project-3 Predicting Which Passenger Survived the Titanic
 In 1912, the ship RMS Titanic struck an iceberg on its maiden voyage and sank, resulting in the deaths of most of its passengers and crew.
-This main objective of this project is to determine which features best predict whether someone survived or did not survive.
+The main objective of this project is to determine which features best predict whether someone survived or did not survive.
