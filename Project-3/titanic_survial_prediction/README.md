@@ -28,3 +28,7 @@ This project is binary classification problem, where the passenger either surviv
 * Hyperparameter optimization
 * Grid search
 * Random forest classifier
+
+# Purpose
+Although we know exactly who survived the Titanic, the project is still useful
+to apply important concepts in data science and machine learning. 
