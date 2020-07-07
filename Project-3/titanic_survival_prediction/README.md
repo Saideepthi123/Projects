@@ -32,3 +32,4 @@ This project is binary classification problem, where the passenger either surviv
 # Purpose
 Although we know exactly who survived the Titanic, the project is still useful
 to apply important concepts in data science and machine learning. 
+    
