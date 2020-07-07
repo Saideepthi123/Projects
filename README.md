@@ -9,3 +9,6 @@ The iris flowers have different species and you can distinguish them based on th
 # Project-3 Predicting Which Passenger Survived the Titanic
 In 1912, the ship RMS Titanic struck an iceberg on its maiden voyage and sank, resulting in the deaths of most of its passengers and crew.
 The main objective of this project is to determine which features best predict whether someone survived or did not survive.
+
+# Project-4 Customer Market Segmentation
+In this project, I analyze a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for internal structure. One goal of this project is to best describe the variation in the different types of customers that a wholesale distributor interacts with. Doing so would equip the distributor with insight into how to best structure their delivery service to meet the needs of each customer.
