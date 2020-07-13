@@ -12,3 +12,6 @@ The main objective of this project is to determine which features best predict w
 
 # Project-4 Customer Market Segmentation
 The goal of this project is to best describe the variation in the different types of customers that a wholesale distributor interacts with. Doing so would equip the distributor with insight into how to best structure their delivery service to meet the needs of each customer.
+
+# Project-5 NLP: Twitter Sentiment Analysis
+In this project a Naive Bayes classifier is trained to predict sentiment from thousands of Twitter tweets. This project could be used to automatically predict customer's sentiment (i.e.: whether their customers are happy or not).
