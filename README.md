@@ -11,3 +11,6 @@ The goal of this project is to best describe the variation in the different type
 
 # Project-4 NLP: Twitter Sentiment Analysis
 In this project a Naive Bayes classifier is trained to predict sentiment from thousands of Twitter tweets. This project could be used to automatically predict customer's sentiment (i.e.: whether their customers are happy or not).
+
+# Project-5 News Classification
+The goal is to classify the news articles into their respective categories like sports, business, politics, entertainment, technology etc., 
